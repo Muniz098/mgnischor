@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgnischor&show_icons=true&locale=en" alt="mgnischor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgnischor&" alt="mgnischor" /></p>
+
+<a href="https://app.daily.dev/miguelnischor"><img src="https://api.daily.dev/devcards/fe198bb6f8594174bda083cf469fa5dc.png?r=7rg" width="400" alt="Miguel Nischor's Dev Card"/></a>
